@@ -23,6 +23,7 @@ I have dipped my toes in:
   - **Java** for projects such as:
     - A modular [JavaFX application](https://github.com/ColinCPittman/ExploringJavaFX) implementing the Model-View-Controller pattern to manage multiple desktop utilities (including a state-tracking calculator and text editor), built as an experimental sandbox to deep-dive into GUI development and object-oriented design patterns.
     - A command-line [Java utility](https://github.com/ColinCPittman/ConversionProgram) applying object-oriented principles to manage multi-unit conversions across temperature, currency, weight, and distance, featuring a 2D matrix-lookup for optimized unit-factor scaling (a first-semester independent project).
+    - A [fictional pizza shop's online ordering interface](https://github.com/ColinCPittman/SWEPizzaProject) focusing on the complete software development lifecycle, moving from full-scale system architecture and requirements documentation to a functional prototype handling user authentication and order processing.
   - **R (Studio)** for statistics, data analysis, and exploratory mathematical work.
   - **MySQL** for standardized curriculum projects, including backend database management for a sample e-commerce storefront. 
 
