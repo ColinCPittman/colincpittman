@@ -2,7 +2,7 @@
 Computer Science at Kennesaw State University (3.96 GPA)
 
 ### The Serious Stuff
-I am a CS student with over six years of professional experience in CRM database administration and analytics. I returned to college to elevate my skills and broaden my foundation in mathematics, machine learning, AI, and data analysis to deliver higher-quality solutions and insights. 
+I am a CS student with over six years of professional experience in CRM database administration and analytics (business intelligence). I returned to college to elevate my skills and broaden my foundation in mathematics, machine learning, AI, and data analysis to deliver higher-quality solutions and insights. 
 
 While my primary career goal is data science, I am building a broad technical foundation. I welcome diverse challenges in tech that will expand my skill set and drive long-term excellence.
 
